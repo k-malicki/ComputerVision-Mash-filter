@@ -1,7 +1,7 @@
 # Computer-Vision-project
 Prosty projekt wykorzystujący technologie wizji komputerowej do analizy obrazu płyt filtra zaciernego. Niniejsza praca jest projektem zaliczeniowym.
 
-## Contact
+## Kontakt
 
 Karol Malicki - malickiart@gmail.com
 
