@@ -12,7 +12,7 @@ Karol Malicki - malickiart@gmail.com
 - Streamlit
 
 ## Instalacja
-1. Przechodzimy do katalogu, do którego chcemy sklonować repozytorium.
+1. Przechodzimy do katalogu, do którego chcemy sklonować repozytorium
    ```sh
    cd /sciezka_do_katalogu
    ```
@@ -24,7 +24,7 @@ Karol Malicki - malickiart@gmail.com
    ```sh
    cd nazwa_projektu
    ```
-4. Tworzymy środowisko wirtualne i aktywujemy je.
+4. Tworzymy środowisko wirtualne i aktywujemy je
    ```sh
    python -m venv venv
    ```
